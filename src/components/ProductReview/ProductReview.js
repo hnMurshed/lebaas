@@ -18,7 +18,7 @@ const ProductReview = ({reviews}) => {
             <div className="flex gap-2">
                 <img className='w-[60px] rounded-full' src={profile} alt="" />
                 <div>
-                    <h5 className='text-xl text-semibold'>{name}</h5>
+                    <h5 className='text-xl font-semibold'>{name}</h5>
                     <span>{country}</span>
                 </div>
             </div>
