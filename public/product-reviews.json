@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Arman",
+        "profile": "https://media.trustradius.com/profile-photos/5c489852615299014c000c5a/92THVIEHWCJ5.jpeg",
+        "country": "United State",
+        "date": "10-03-2022",
+        "rating": 5,
+        "comment": "Great",
+        "review": "Very awesome to look at while wearing and also comfortable to wear. Thank you!"
+    },
+    {
+        "id": 2,
+        "name": "Faisal",
+        "profile": "https://media.trustradius.com/profile-photos/5d4c5dacaf08e1002613105a/FVP20PT2LV6T.jpeg",
+        "country": "Bangladesh",
+        "date": "09-02-2022",
+        "rating": 4.5,
+        "comment": "Best product!",
+        "review": "The desing is so attractive and unique. It will defenitely go with me perfectly. The quality of cloth is also outstanding"
+    },
+    {
+        "id": 3,
+        "name": "Raihan",
+        "profile": "https://media.trustradius.com/profile-photos/5b7704d1ba9b85001780c562/UV7VI90TTIMI.jpeg",
+        "country": "United Kingdom",
+        "date": "04-01-2022",
+        "rating": 5,
+        "comment": "I love it",
+        "review": "The seller is uncompromising in quality as he said. I'm very satisfied with the purchase. Reccomended"
+    },
+    {
+        "id": 4,
+        "name": "Ridoan",
+        "profile": "https://media.trustradius.com/profile-photos/56335ede28bc960f007fab8e/45P3WN7GEMRK.jpeg",
+        "country": "United State",
+        "date": "02-01-2022",
+        "rating": 4,
+        "comment": "Just awesome!",
+        "review": "Simple but fashionable design, will defenitely create a nice impression on me while wearing. Thanks!"
+    },
+    {
+        "id": 5,
+        "name": "Shah Minhaj",
+        "profile": "https://media.trustradius.com/profile-photos/5afc65e166c9b50017b9f09b/HPTTZQ2X7KTO.jpeg",
+        "country": "United State",
+        "date": "17-01-2022",
+        "rating": 4.7,
+        "comment": "Exellent dress",
+        "review": "So comfortable to wear. Made with quality and comfort in mind. The design is also so impressive. Recommended"
+    },
+    {
+        "id": 6,
+        "name": "Tahseen",
+        "profile": "https://media.trustradius.com/profile-photos/58d572cba908a200150a2b60/JNFN5GT4S2NH.jpeg",
+        "country": "United Kingdom",
+        "date": "27-03-2022",
+        "rating": 4.8,
+        "comment": "I like it a lot!",
+        "review": "Great product, perfect fit on me. When I wear it, now I'm feeling better with personality and look."
+    },
+    {
+        "id": 7,
+        "name": "Murshed",
+        "profile": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_960_720.png",
+        "country": "Canada",
+        "date": "01-04-2022",
+        "rating": 5,
+        "comment": "So nice dress!",
+        "review": "Design is unique and impressive, quality is uncompromising. Great product, recommended"
+    },
+    {
+        "id": 8,
+        "name": "Yeasin",
+        "profile": "https://media.trustradius.com/profile-photos/5a8c58b695c69100120e5061/BSICGXZXLSWT.jpeg",
+        "country": "Bangladesh",
+        "date": "03-04-2022",
+        "rating": 5,
+        "comment": "Exellent, I love it",
+        "review": "Extraordinary in both quality and comfort. The look gets better than before while wearing. Best outfit!"
+    }
+]
