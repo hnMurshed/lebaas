@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "image": "",
+        "topic": "Context API and purpose of using",
+        "content": "In this tutorial we will learn about context API and purpose of using it",
+        "publishDate": "01-04-2022",
+        "path": "/blogs/context-api"
+    },
+    {
+        "id": "2",
+        "image": "",
+        "topic": "What is Semantic tag",
+        "content": "In this tutorial we will learn about semantic tag",
+        "publishDate": "02-04-2022",
+        "path": "/blogs/semantic-tag"
+    },
+    {
+        "id": "3",
+        "image": "",
+        "topic": "Difference among inline, block, inline-block elements",
+        "content": "In this tutorial we will learn about the difference among inline, block, inline-block elements",
+        "publishDate": "03-04-2022",
+        "path": "/blogs/block-vs-inline-block-vs-inlice"
+    }
+]
