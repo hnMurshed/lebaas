@@ -8,7 +8,7 @@
 * Displeyed 3 reveiws in the home page
 * Displeyed all reviews in the reviews page
 * Four react chart created to show our dashboard in the dashboard page
-* added 3 tutorial about Context API, Semantic tag, and difference among Block, Inline-bloc, and Inline elements in the blogs page.
+* Added 3 tutorial about Context API, Semantic tag, and difference among Block, Inline-bloc, and Inline elements in the blogs page.
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
