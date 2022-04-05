@@ -1,5 +1,14 @@
-# Getting Started with Create React App
+# [Lebaas](https://product-analysis-website-by-murshedul.netlify.app/) - Get your best outfit
+[https://product-analysis-website-by-murshedul.netlify.app/](https://product-analysis-website-by-murshedul.netlify.app/)
 
+## What I have done in this project.
+
+“*” Created navbar with brand logo and main menu
+“*” Added a image with text in the home page
+“*” Displeyed 3 reveiws in the home page
+“*” Displeyed all reviews in the reviews page
+“*” Four react chart created to show our dashboard in the dashboard page
+“*” added 3 tutorial about Context API, Semantic tag, and difference among Block, Inline-bloc, and Inline elements in the blogs page.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
